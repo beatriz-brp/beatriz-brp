@@ -1,6 +1,6 @@
 ### 👩‍💻 Beatriz Barros Rodrigues
 
-Me chamo Beatriz, tenho 20 anos e sou de Leme-SP. Concluí o Ensino Médio juntamente com o curso técnico de Administração de Empresas. 
+Me chamo Beatriz, tenho 21 anos e sou de Leme-SP. Concluí o Ensino Médio juntamente com o curso técnico de Administração de Empresas. 
 Atualmente, estou cursando o 4º período de Sistemas de Informação na Fundação Hermínio Ometto (FHO).
 
 <a href="https://github.com/beatriz-brp?tab=followers">
